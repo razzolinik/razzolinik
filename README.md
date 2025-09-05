@@ -1,4 +1,4 @@
-# ✨ Hey, I’m Khiara!  
+# ✨ Hey, I’m Khiara - or Kiki!  
 
 👩‍💻 Fullstack Dev in progress | Code enthusiast | Always learning new tricks  
 
