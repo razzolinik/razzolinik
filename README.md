@@ -2,6 +2,7 @@
 
 👩‍💻 Fullstack Dev in progress | Code enthusiast | Always learning new tricks  
 
+![Texto alternativo](https://i.pinimg.com/originals/e4/05/6d/e4056da2c770d991c62152371838960c.gif)
 ---
 
 ## 🌸 About Me
