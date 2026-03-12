@@ -55,7 +55,8 @@ Coding for me isn’t just about building stuff — it’s about making ideas re
 - Building projects to level up my fullstack skills  
 - Experimenting with new frameworks and tools  
 - Looking to collaborate on fun, creative ideas  
-- Trying not to break prod (…yet)  
+- Trying not to break prod (…yet)
+- Right now learning: AWS
 
 ---
 
